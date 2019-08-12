@@ -26,6 +26,7 @@ B) Once the character is created the game starts:
 3.  "Use coins" command can be used if the user wants to use the coins later.
 4.  "Quit" command can be used to quit the game.
 
-NOTE:  All inputs are case insensitive
-       Each character has a unique stat based on the male/female, race and warrior/mage.
-       Also each character has a unique special attack which affects the monster differently.
+NOTE:
+->All inputs are case insensitive.
+->Each character has a unique stat based on the male/female, race and warrior/mage.
+->Also each character has a unique special attack which affects the monster differently.
