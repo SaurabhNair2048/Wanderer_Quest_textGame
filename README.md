@@ -27,6 +27,6 @@ B) Once the character is created the game starts:
 4.  "Quit" command can be used to quit the game.
 
 NOTE:
-->All inputs are case insensitive.
-->Each character has a unique stat based on the male/female, race and warrior/mage.
-->Also each character has a unique special attack which affects the monster differently.
+1.  All inputs are case insensitive.
+2.  Each character has a unique stat based on the male/female, race and warrior/mage.
+3.  Also each character has a unique special attack which affects the monster differently.
