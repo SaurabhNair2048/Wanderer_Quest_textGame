@@ -6,6 +6,8 @@ The game was created for java jre1.8.0_221.
 It was created in Eclipse Neon 3 IDE.
 
 Its a simple game with the following steps on compiling and running the game:
+
+
 A) First we create the character:
 1.  Enter character name
 2.  Enter character gender (Acceptable inputs: "male" or "female")
